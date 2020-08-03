@@ -1,0 +1,5 @@
+LBP2
+OpenCVDNN
+HoG
+DlibDNN
+MTCNN
