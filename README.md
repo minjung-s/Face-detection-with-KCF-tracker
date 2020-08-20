@@ -1,2 +1,2 @@
 # Face-detection-with-KCF-tracker
-(수정중)
+('haar','LBP','OpenCVDNN','HoG','DlibDNN','MTCNN') +KCF tracker로 face detection하기
