@@ -9,13 +9,13 @@ import time
 detector_names = ['GT', 'haar', 'HoG', 'Dlib', 'MTCNN', 'RestrictedMTCNN']
 detector_name = detector_names[0]
 # make paths and flags of src
-dirpaths = ['/media/gpuserver/50A268B4A268A068/Datasets/YawDD/user06/YawDD dataset/Dash/Female',
-            '/media/gpuserver/50A268B4A268A068/Datasets/YawDD/user06/YawDD dataset/Dash/Male',
-            '/media/gpuserver/50A268B4A268A068/Datasets/NTHU DDD dataset/Evaluation Dataset/004',
-            '/media/gpuserver/50A268B4A268A068/Datasets/NTHU DDD dataset/Evaluation Dataset/022',
-            '/media/gpuserver/50A268B4A268A068/Datasets/NTHU DDD dataset/Evaluation Dataset/026',
-            '/media/gpuserver/50A268B4A268A068/Datasets/NTHU DDD dataset/Evaluation Dataset/030',
-            '/media/gpuserver/50A268B4A268A068/Datasets/Cockpit_Dataset2']
+dirpaths = ['/media/gpuserver/--------------/YawDD/user06/YawDD dataset/Dash/Female',
+            '/media/gpuserver/--------------/Datasets/YawDD/user06/YawDD dataset/Dash/Male',
+            '/media/gpuserver/--------------/Datasets/NTHU DDD dataset/Evaluation Dataset/004',
+            '/media/gpuserver/--------------/Datasets/NTHU DDD dataset/Evaluation Dataset/022',
+            '/media/gpuserver/--------------/Datasets/NTHU DDD dataset/Evaluation Dataset/026',
+            '/media/gpuserver/--------------/Datasets/NTHU DDD dataset/Evaluation Dataset/030',
+            '/media/gpuserver/--------------/Datasets/Cockpit_Dataset2']
 
 flags = ['.avi',
          '.avi',
