@@ -1,16 +1,19 @@
 # Face-detection-with-KCF-tracker
 ('haar','LBP','OpenCVDNN','HoG','DlibDNN','MTCNN') +KCF tracker로 face detection하기
 
-## INSTALLATION
-### MTCNN
+## REQUIREMENT
+* Python>=3.4 
+* Tensorflow>=1.14 
+* OpenCV>=4.1 
+* Keras>=2.0.0
+* MTCNN
 
     $ pip install mtcnn
 
-Python>=3.4 && Tensorflow>=1.14 && OpenCV>=4.1 && Keras>=2.0.0
-
-[reference](https://github.com/ipazc/mtcnn#mtcnn)
+    [reference](https://github.com/ipazc/mtcnn#mtcnn)
 
 ## USAGE
+boundingbox_make.py 에서 수정
 
         dirpaths = ['write face dataset dir 1',
                     'write face dataset dir 2',
