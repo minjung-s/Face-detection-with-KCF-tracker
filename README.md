@@ -13,7 +13,7 @@
     [reference](https://github.com/ipazc/mtcnn#mtcnn)
 
 ## USAGE
-boundingbox_make.py 에서 수정
+boundingbox_make.py : face detection하고 싶은 image, video가 있는 dir로 수정
 
         dirpaths = ['write face dataset dir 1',
                     'write face dataset dir 2',
