@@ -24,3 +24,6 @@ boundingbox_make.py : face detection하고 싶은 image, video가 있는 dir로 
                  'write face dataset 2 file extension ex).mp4',
                  'write face dataset 3 file extension ex).jpg',
                  '....']
+                 
+Argument : face detection할 알고리즘 선택
+        boundingbox_make.py -D "Harr or LBP or MTCNN etc"
