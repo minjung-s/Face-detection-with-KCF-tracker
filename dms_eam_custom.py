@@ -85,9 +85,9 @@ class Detector:
             self.detector = cv2.CascadeClassifier('./haarcascade_frontalface_default.xml')
 			#
         elif detector == "dlib" or "Dlib" :
-            self.detector = MTCNN()#Dlib()
+            self.detector = Dlib()
         elif detector == "hog" or "HoG":
-            self.detector = MTCNN()#HoG()
+            self.detector = HoG()
 
     # Parameters:   image: ndarray
     # Returns:      detected_face: object(Face) or None
