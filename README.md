@@ -26,4 +26,5 @@ boundingbox_make.py : face detection하고 싶은 image, video가 있는 dir로 
                  '....']
                  
 Argument : face detection할 알고리즘 선택
+
         boundingbox_make.py -D "Harr or LBP or MTCNN etc"
