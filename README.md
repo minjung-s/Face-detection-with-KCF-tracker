@@ -7,11 +7,13 @@
 * OpenCV>=4.1 
 * Keras>=2.0.0
 * MTCNN
-
+```sh
     $ pip install mtcnn
+    # reference : https://github.com/ipazc/mtcnn#mtcnn
 
-    [reference](https://github.com/ipazc/mtcnn#mtcnn)
+```
 
+    
 ## USAGE
 boundingbox_make.py : face detection하고 싶은 image, video가 있는 dir로 수정
 
