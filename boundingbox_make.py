@@ -6,7 +6,7 @@ import dms_eam_custom
 import time
 
 
-detector_names = ['GT', 'haar', 'HoG', 'Dlib', 'MTCNN', 'RestrictedMTCNN']
+detector_names = ['GT', 'haar', 'HoG', 'Dlib', 'MTCNN']
 detector_name = detector_names[0]
 # make paths and flags of src
 dirpaths = ['/media/gpuserver/--------------/YawDD/user06/YawDD dataset/Dash/Female',
