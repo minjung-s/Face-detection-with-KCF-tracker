@@ -14,6 +14,9 @@
 ```
 ## Demo
 
+
+![녹화_2020_10_23_18_10_15_157](https://user-images.githubusercontent.com/41895063/96983286-0da42300-155b-11eb-9c18-07b595ba8419.gif)
+
     
 ## USAGE
 boundingbox_make.py : face detection하고 싶은 image, video가 있는 dir로 수정
