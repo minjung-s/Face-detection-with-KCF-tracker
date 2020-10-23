@@ -19,6 +19,7 @@
 
     
 ## USAGE
+
 boundingbox_make.py : face detection하고 싶은 image, video가 있는 dir로 수정
 
         dirpaths = ['write face dataset dir 1',
