@@ -36,8 +36,9 @@ Argument : face detection할 알고리즘 선택
 
 
 ```sh
-$  boundingbox_make.py -D "Harr or LBP or MTCNN etc"
-
+$  boundingbox_make.py D "알고리즘"
+ex)
+$  boundingbox_make.py D MTCNN
 """
 haar :"haar" or "Haar" or "Haar-cascade"
 HoG : "hog" or "HoG"
